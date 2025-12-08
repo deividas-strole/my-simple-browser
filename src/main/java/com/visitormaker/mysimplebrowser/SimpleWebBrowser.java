@@ -40,7 +40,7 @@ public class SimpleWebBrowser extends Application {
         root.setTop(toolBar);
         root.setCenter(webView);
 
-        // Set up the scene and stage...
+        // Set up the scene and stage
         Scene scene = new Scene(root, 800, 600);
         primaryStage.setTitle("Simple Web Browser");
         primaryStage.setScene(scene);
