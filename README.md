@@ -48,5 +48,11 @@ javac -d out src/com/visitormaker/mysimplebrowser/SimpleWebBrowser.java
 bash
 java -cp out com.visitormaker.mysimplebrowser.SimpleWebBrowser
 
+## 📫 Connect with Deividas Strole
+
+- LinkedIn: [linkedin.com/in/deividas-strole](https://linkedin.com/in/deividas-strole)  
+- YouTube: [youtube.com/@deividas-strole](https://youtube.com/@deividas-strole)
+
+
 2025 Deividas Strole | Java Developer | Full-Stack Enthusiast | Passionate about building efficient applications
 
